@@ -36,6 +36,8 @@
 2. buat repo baru
 3. lakukan di terminal
   git remote add origin https://github.com/henhenmuldani/nuxt-film.git
+  git add .
+  git commit -m "deployment"
   git branch -M master
   git push -u origin master
 4. login netlify
